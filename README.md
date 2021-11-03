@@ -1,4 +1,4 @@
-# HitAnti-Addiction_ark
+# HitAnti-Addiction_Ark
 进行一个防沉迷的击打（迫真）
 
 不过依旧是有方法的，放心，一切都会好起来的
